@@ -12,3 +12,4 @@ weekend and week nights, room type, and special requests. Use historical data to
 
 
 # Need to change variables name in JN.
+# Need to use plot for visualizations. V.V.I
