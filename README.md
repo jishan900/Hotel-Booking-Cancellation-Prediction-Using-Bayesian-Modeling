@@ -24,4 +24,5 @@ Binomial-Beta Model, Negative-Binomial-Beta Model, Poisson-Gamma Model, Exponent
 Regression), Normal-Inverse Gamma Model, GLM, Hierarchical binomial model, Finite Mixture-Models, Data-driven non-linear models. 
 
 # ML models need to be implemented: 
-RandomForestClassifier, Logistic Regression, KNN, Decision Tree Classifier, SVC then Models Comparison
+RandomForestClassifier, Logistic Regression, KNN, Decision Tree Classifier, SVC then Models Comparison,     'CatBoostClassifier':CatBoostClassifier(),
+    'XGBRFClassifier':XGBRFClassifier()
