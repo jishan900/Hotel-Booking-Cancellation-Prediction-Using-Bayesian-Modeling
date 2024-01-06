@@ -17,6 +17,7 @@ availability, and room type to identify patterns that contribute to positive exp
 
 
 # Need to change variables name in JN.
+# Train test shape 
 # Need to use plot for visualizations. V.V.I
 
 # Bayesian models need to be implemented: 
