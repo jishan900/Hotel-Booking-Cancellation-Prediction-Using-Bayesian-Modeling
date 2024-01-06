@@ -18,3 +18,11 @@ availability, and room type to identify patterns that contribute to positive exp
 
 # Need to change variables name in JN.
 # Need to use plot for visualizations. V.V.I
+
+# Bayesian models need to be implemented: 
+Binomial-Beta Model, Negative-Binomial-Beta Model, Poisson-Gamma Model, Exponential-Gamma Model, Normal-Normal Model, Multinomial-Dirichlet Model, Nomal-Inv.Gamma Model, Normal-Normal Model (Special case: Linear
+Regression), Normal-Inverse Gamma Model, GLM, Hierarchical binomial model, Finite Mixture-Models, Data-driven non-linear models. 
+
+# ML models need to be implemented: 
+Binomial-Beta Model, Negative-Binomial-Beta Model, Poisson-Gamma Model, Exponential-Gamma Model, Normal-Normal Model, Multinomial-Dirichlet Model, Nomal-Inv.Gamma Model, Normal-Normal Model (Special case: Linear
+Regression), Normal-Inverse Gamma Model, GLM, Hierarchical binomial model, Finite Mixture-Models, Data-driven non-linear models. 
