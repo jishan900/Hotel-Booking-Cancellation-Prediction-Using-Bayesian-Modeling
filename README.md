@@ -20,8 +20,9 @@ availability, and room type to identify patterns that contribute to positive exp
 # Need to use plot for visualizations. V.V.I
 
 # Bayesian models need to be implemented: 
-Binomial-Beta Model, Negative-Binomial-Beta Model, Poisson-Gamma Model, Exponential-Gamma Model, Normal-Normal Model, Multinomial-Dirichlet Model, Nomal-Inv.Gamma Model, Normal-Normal Model (Special case: Linear
-Regression), Normal-Inverse Gamma Model, GLM, Hierarchical binomial model, Finite Mixture-Models, Data-driven non-linear models. 
+**Binomial-Beta Model, Negative-Binomial-Beta Model**, Poisson-Gamma Model, Exponential-Gamma Model, Normal-Normal Model, Multinomial-Dirichlet Model, Nomal-Inv.Gamma Model, Normal-Normal Model (Special case: Linear
+Regression), Normal-Inverse Gamma Model, **GLM**, Hierarchical binomial model, Finite Mixture-Models, Data-driven non-linear models. 
+**Need to modify later for full datsaet. **
 
 # ML models need to be implemented: 
 RandomForestClassifier, Logistic Regression, KNN, Decision Tree Classifier, SVC then Models Comparison, CatBoostClassifier, XGBRFClassifier, XGBRFClassifier.
