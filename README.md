@@ -16,7 +16,6 @@ Apply Bayesian analytics to assess customer satisfaction by analyzing feedback a
 availability, and room type to identify patterns that contribute to positive experiences. Implement strategies to enhance customer satisfaction and encourage repeat bookings.
 
 
-# Need to change variables name in JN.
 # Train test shape 
 # Need to use plot for visualizations. V.V.I
 
