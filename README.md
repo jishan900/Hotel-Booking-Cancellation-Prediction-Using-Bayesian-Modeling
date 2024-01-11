@@ -27,4 +27,3 @@ Regression), Normal-Inverse Gamma Model, **GLM**, Hierarchical binomial model, F
 # ML models need to be implemented: 
 RandomForestClassifier, Logistic Regression, KNN, Decision Tree Classifier, SVC then Models Comparison, CatBoostClassifier, XGBRFClassifier, XGBRFClassifier.
 
-# Need to work on whole CSV (var name) + need to prepare them for final training with visualizations 
