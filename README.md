@@ -12,6 +12,15 @@ weekend and week nights, room type, and special requests. Use historical data to
 
 
 
+
+# Further step:
+1. Negative-Binomial-Beta Model**, **Poisson-Gamma Model, [Need to choose 1]
+2. 
+
+
+
+
+
 # Bayesian models need to be implemented: 
 **Binomial-Beta Model, Negative-Binomial-Beta Model**, **Poisson-Gamma Model, Exponential-Gamma Model,** **GLM**, Normal-Normal Model, Multinomial-Dirichlet Model, Nomal-Inv.Gamma Model, Normal-Normal Model (Special case: Linear
 Regression), Normal-Inverse Gamma Model, Hierarchical binomial model, Finite Mixture-Models, Data-driven non-linear models. 
@@ -20,6 +29,3 @@ Regression), Normal-Inverse Gamma Model, Hierarchical binomial model, Finite Mix
 # ML models need to be implemented: 
 RandomForestClassifier, Logistic Regression, KNN, Decision Tree Classifier, SVC then Models Comparison, CatBoostClassifier, XGBRFClassifier, XGBRFClassifier.
 
-Further step:
-1. Negative-Binomial-Beta Model**, **Poisson-Gamma Model, [Need to choose 1]
-2. 
