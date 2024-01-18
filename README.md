@@ -23,7 +23,7 @@ Regression), Normal-Inverse Gamma Model, Hierarchical binomial model, Finite Mix
 
 # Further step:
 1. Negative-Binomial-Beta Model**, **Poisson-Gamma Model, [Need to choose 1]
-2. 
+2. Data analysis, prior, details about the method, results. 
 
 
 
