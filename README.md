@@ -26,3 +26,6 @@ Regression), Normal-Inverse Gamma Model, Hierarchical binomial model, Finite Mix
 # ML models need to be implemented: 
 RandomForestClassifier, Logistic Regression, KNN, Decision Tree Classifier, SVC then Models Comparison, CatBoostClassifier, XGBRFClassifier, XGBRFClassifier.
 
+Further step:
+1. Negative-Binomial-Beta Model**, **Poisson-Gamma Model, [Need to choose 1]
+2. 
