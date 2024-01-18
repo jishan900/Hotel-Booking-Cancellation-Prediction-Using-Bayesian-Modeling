@@ -11,7 +11,7 @@ Implement a Bayesian model that predicts the likelihood of a successful booking 
 weekend and week nights, room type, and special requests. Use historical data to train the model and continuously update it to enhance accuracy.     
 
 
-
+# We had total (36285, 17) - (observations, features) in the dataset. But, due to a lack of computing power, we reduced it and selected (10000, 17) data.  
 
 
 
