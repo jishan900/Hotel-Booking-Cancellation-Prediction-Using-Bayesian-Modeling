@@ -26,6 +26,10 @@ Regression), Normal-Inverse Gamma Model, Hierarchical binomial model, Finite Mix
 2. Data analysis, prior, details about the method, results. 
 
 
+# Review from Marvin and need to change in code 
+
+![IMG_5617](https://github.com/jishan900/Hotel-Booking-Cancellation-Prediction-Using-Bayesian-Modeling/assets/32738421/a2f95805-6295-466e-ab2f-aeda0cd9b1af)
+
 
 # ML models need to be implemented: 
 RandomForestClassifier, Logistic Regression, KNN, Decision Tree Classifier, SVC then Models Comparison, CatBoostClassifier, XGBRFClassifier, XGBRFClassifier.
