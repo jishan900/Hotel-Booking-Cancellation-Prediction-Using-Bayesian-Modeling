@@ -11,28 +11,3 @@ Implement a Bayesian model that predicts the likelihood of a successful booking 
 weekend and week nights, room type, and special requests. Use historical data to train the model and continuously update it to enhance accuracy.     
 
 
-# We had total (36285, 17) - (observations, features) in the dataset. But, due to a lack of computing power, we reduced it and selected (10000, 17) data.  
-
-
-
-# Bayesian models need to be implemented: 
-**Binomial-Beta Model, Negative-Binomial-Beta Model**, **Poisson-Gamma Model, Exponential-Gamma Model,** **GLM**, Normal-Normal Model, Multinomial-Dirichlet Model, Nomal-Inv.Gamma Model, Normal-Normal Model (Special case: Linear
-Regression), Normal-Inverse Gamma Model, Hierarchical binomial model, Finite Mixture-Models, Data-driven non-linear models. 
-**Need to modify later for full datsaet.**  **5 models done**
-
-
-# Further step:
-1. Negative-Binomial-Beta Model**, **Poisson-Gamma Model, [Need to choose 1]
-2. Data analysis, prior, details about the method, results. 
-
-
-# Review from Marvin and need to change in code 
-
-![IMG_5617](https://github.com/jishan900/Hotel-Booking-Cancellation-Prediction-Using-Bayesian-Modeling/assets/32738421/a2f95805-6295-466e-ab2f-aeda0cd9b1af)
-
-
-# ML models need to be implemented: 
-RandomForestClassifier, Logistic Regression, KNN, Decision Tree Classifier, SVC then Models Comparison, CatBoostClassifier, XGBRFClassifier, XGBRFClassifier.
-
-
-# need to use shuffle
