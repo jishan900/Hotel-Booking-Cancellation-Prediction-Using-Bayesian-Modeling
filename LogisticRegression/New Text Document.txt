@@ -1,0 +1,8 @@
+    b0 = pm.Normal('b0', mu=0, sd=10)  # Intercept
+    b1 = pm.Normal('b1', mu=0, sd=10)  # Coefficient for lead_time
+    b2 = pm.Normal('b2', mu=0, sd=10)  # Coefficient for number_of_adults
+    b3 = pm.Normal('b3', mu=0, sd=10)  # Coefficient for number_of_children
+    b4 = pm.Normal('b4', mu=0, sd=10)  # Coefficient for number_of_weekend_nights
+    b5 = pm.Normal('b5', mu=0, sd=10)  # Coefficient for number_of_week_nights
+    b6 = pm.Normal('b6', mu=0, sd=10)  # Coefficient for special_requests
+    b7 = pm.Normal('b7', mu=0, sd=10)  # Coefficient for average_price
