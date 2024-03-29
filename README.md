@@ -1,6 +1,6 @@
 # Hotel-Booking-Cancellation-Prediction-Using-Bayesian-Modeling
-Group 28
-Names: Ayan Kumar Ghosh, Vikas Singh, Md Asifuzzaman Jishan
+**Group 28**
+**Names:** Md Asifuzzaman Jishan, Ayan Kumar Ghosh, Vikas Singh
 
 Data set: https://www.kaggle.com/datasets/youssefaboelwafa/hotel-booking-cancellation-prediction/data
 
